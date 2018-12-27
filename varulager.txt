@@ -1,0 +1,7 @@
+orange 100 10 5.0
+banana 101 20 3.0
+apple 102 30 2.0
+pear 103 40 4.0
+mango 104 50 14.0
+lemon 105 60 6.0
+avocad 106 70 10.0
